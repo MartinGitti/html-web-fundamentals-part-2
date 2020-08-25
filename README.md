@@ -1,7 +1,7 @@
 # html-web-fundamentals-part-2
 
 * Introduction to Web Developement.
-* One of my first attempts to working with HTML docs.
+* This is one of my first attempts to working with HTML docs.
 
 ## Questions & Answers:
 
